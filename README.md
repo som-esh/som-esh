@@ -12,4 +12,4 @@
 - 👯 I’m looking to collaborate on Opensourced Projects
 - 📫 How to reach me: [Telegram](https://t.me/Archmaze)
 
-<img align="centre" src="https://github-readme-stats.vercel.app/api?username=cybersecbyte&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="stats" />
+<img align="centre" src="https://github-readme-stats.vercel.app/api?username=som-esh&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="stats" />
