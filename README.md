@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working with many [organizations](https://github.com/som-esh)
+- 🔭 I’m currently not working with many [organizations](https://github.com/som-esh)
 - 🌱 I’m currently learning new things
 - 👯 I’m looking to collaborate on Opensourced Projects
 - 📫 How to reach me: [Telegram](https://t.me/Archmaze)
